@@ -7,6 +7,7 @@
 [Particle System](/particle_system)
 <img src="images/meteor_trail_effect.png?raw=true"/>
 
+---
 [Project 1 Title](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
