@@ -5,7 +5,8 @@
 ### Software Projects
 
 [Particle System](/particle_system)
-<img src="images/meteor_trail_effect.png?raw=true"/>
+<br>
+<img src="images/snow_environment_effect.png?raw=true"/>
 
 ---
 [Project 1 Title](/sample_page)
