@@ -1,8 +1,8 @@
-## Portfolio
+# Portfolio
 
 ---
 
-### Software Projects
+## Software Projects
 
 ### [Particle System](/pages/particle_system.md)
 <img src="images/snow_environment_effect.png?raw=true"/>
