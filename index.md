@@ -1,7 +1,5 @@
 # Portfolio
 
----
-
 ## Software Projects
 
 ### [Particle System](/pages/particle_system.md)
