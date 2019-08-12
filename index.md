@@ -4,7 +4,7 @@
 
 ### Software Projects
 
-[Particle System](/pages/particle_system)
+[Particle System](/pages/particle_system.md)
 <br>
 <img src="images/snow_environment_effect.png?raw=true"/>
 
