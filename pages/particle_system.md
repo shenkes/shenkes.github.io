@@ -5,7 +5,8 @@ As a final project for Computer Graphics (COMS 336) I collaborated with [Ben Kra
 
 ### Trail Effects
 
-<img src="/images/meteor_trail_effect.png?raw=true"/>
+<img src="url" alt="alt text" width="whatever" height="whatever">
+<img src="/images/meteor_trail_effect.png?raw=true" width="500" height="500/>
 
 <img src="/images/green_trail_effect.png?raw=true"/>
 
