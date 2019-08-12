@@ -6,3 +6,23 @@ As a final project for Computer Graphics (COMS 336) I collaborated with [Ben Kra
 ### Trail Effects
 
 <img src="/images/meteor_trail_effect.png?raw=true"/>
+
+<img src="/images/green_trail_effect.png?raw=true"/>
+
+<img src="/images/torch_trail_effect.png?raw=true"/>
+
+### Environments
+
+<img src="/images/snow_environment_effect.png?raw=true"/>
+
+<img src="/images/ember_environment_effect.png?raw=true"/>
+
+### Auras
+
+<img src="/images/light_aura_effect.png?raw=true"/>
+
+<img src="/images/light_aura_effect_2.png?raw=true"/>
+
+<img src="/images/subtle_aura_effect.png?raw=true"/>
+
+<img src="/images/purple_aura_effect.png?raw=true"/>
