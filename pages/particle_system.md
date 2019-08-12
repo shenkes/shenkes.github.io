@@ -8,22 +8,22 @@ As a final project for Computer Graphics (COMS 336) I collaborated with [Ben Kra
 <img src="url" alt="alt text" width="whatever" height="whatever">
 <img src="/images/meteor_trail_effect.png?raw=true" width="500"/>
 
-<img src="/images/green_trail_effect.png?raw=true"/>
+<img src="/images/green_trail_effect.png?raw=true" width="500"/>
 
-<img src="/images/torch_trail_effect.png?raw=true"/>
+<img src="/images/torch_trail_effect.png?raw=true" width="500"/>
 
 ### Environments
 
-<img src="/images/snow_environment_effect.png?raw=true"/>
+<img src="/images/snow_environment_effect.png?raw=true" width="500"/>
 
-<img src="/images/ember_environment_effect.png?raw=true"/>
+<img src="/images/ember_environment_effect.png?raw=true" width="500"/>
 
 ### Auras
 
-<img src="/images/light_aura_effect.png?raw=true"/>
+<img src="/images/light_aura_effect.png?raw=true" width="500"/>
 
-<img src="/images/light_aura_effect_2.png?raw=true"/>
+<img src="/images/light_aura_effect_2.png?raw=true" width="500"/>
 
-<img src="/images/subtle_aura_effect.png?raw=true"/>
+<img src="/images/subtle_aura_effect.png?raw=true" width="500"/>
 
-<img src="/images/purple_aura_effect.png?raw=true"/>
+<img src="/images/purple_aura_effect.png?raw=true" width="500"/>
