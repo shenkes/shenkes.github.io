@@ -20,3 +20,7 @@ As a final project for Computer Graphics (COMS 336) I collaborated with [Ben Kra
 <img src="/images/light_aura_effect_2.png?raw=true" width="500"/>
 <img src="/images/subtle_aura_effect.png?raw=true" width="500"/>
 <img src="/images/purple_aura_effect.png?raw=true" width="500"/>
+
+### References
+https://threejs.org/examples/webgl_gpu_particle_system.html
+http://jsfiddle.net/hjx3rLmt/1/
