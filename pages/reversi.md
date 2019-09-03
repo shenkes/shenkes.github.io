@@ -1,35 +1,21 @@
-## About Reversi[Particle System](https://github.com/shenkes/particle_system)
+## About Reversi
 
 [Download](/projects/Reversi.zip)
 
 **Project description:** (Finished) <br>
-As a final project for Computer Graphics (COMS 336) I collaborated with [Ben Kramer](https://github.com/bckramer) to make a customizable particle system using JavaScript, HTML, and WebGL. We completed the Particle System over the course of about 2 weeks and demonstrated our project in front of the class. This was one of my favorite projects to work on because of how modular it was to work on and how impactful optimizations of the Particle System were. In development, we discovered a few different uses for our newly created Particle System by adjusting different values as shown below.
+As one of 4 games I made in the Game Development course (COMS 437), I created a single player version of Reversi in Unity using C#. The computer player uses the [Minimax Algorithm](https://www.geeksforgeeks.org/minimax-algorithm-in-game-theory-set-1-introduction/) to determine its next move. There are 5 difficulties to the game and each difficulty can see 1-5 turns ahead of the current game state in correlation to the difficulty. I completed the Reversi game in a couple days and challenged my friends to beat the AI I created. I learned the Minimax Algorithm in making this game, but more importantly I was able to envision many different ways the AI could be modified to learn or suit other games. As a quick example: the AI could store the number of wins and losses for each move that had been tried and use that information in the heuristic to make up for the fact that it can only see 5 turns in the future.
 
-### Trails
+### Game in Action
 
-<img src="/images/meteor_trail_effect.png?raw=true" width="500"/>
-<img src="/images/green_trail_effect.png?raw=true" width="500"/>
-<img src="/images/torch_trail_effect.png?raw=true" width="500"/>
-
-### Environments
-
-<img src="/images/snow_environment_effect.png?raw=true" width="500"/>
-<img src="/images/ember_environment_effect.png?raw=true" width="500"/>
-
-### Auras
-
-<img src="/images/light_aura_effect.png?raw=true" width="500"/>
-<img src="/images/light_aura_effect_2.png?raw=true" width="500"/>
-<img src="/images/subtle_aura_effect.png?raw=true" width="500"/>
-<img src="/images/purple_aura_effect.png?raw=true" width="500"/>
+<img src="/images/reversi.png?raw=true" width="500"/>
 
 ### Next Steps
-We achieved our original goals in making the Particle System, but if we come back to it we have a few things we would like to do.
-* Embed the Particle System in this page (or at least a link to it)
-* Make the option to change the number of particles accessable from the browser (currently hardcoded)
-* Make the user interface more user friendly - set limits on numbers or perhaps add sliders
-* Add more user options - shapes, rotation with variance, etc.
-
-### References
-https://threejs.org/examples/webgl_gpu_particle_system.html <br>
-http://jsfiddle.net/hjx3rLmt/1/
+I achieved my original goals in making the Particle System, but if I came back to it I have a few things I would like to do.
+* Embed the game in this page
+* Implement [alpha-beta pruning](https://en.wikipedia.org/wiki/Alpha%E2%80%93beta_pruning)
+* Add a menu
+* Add an end game animation
+* Allow local multiplayer
+* Add sounds
+* Choose/alternate between white and black
+* Improve UI
