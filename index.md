@@ -3,26 +3,26 @@
 ## Software Projects
 
 ### [Particle System](/pages/particle_system.md)
-<img src="images/snow_environment_effect.png?raw=true" width="500"/>
+<img src="images/snow_environment_effect.png?raw=true" width="800"/>
 
 ---
 ### [Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true" width="500"/>
+<img src="images/dummy_thumbnail.jpg?raw=true" width="800"/>
 
 ---
 ### [Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true" width="500"/>
+<img src="images/dummy_thumbnail.jpg?raw=true" width="800"/>
 
 ---
 ### [Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true" width="500"/>
+<img src="images/dummy_thumbnail.jpg?raw=true" width="800"/>
 
 ---
 
 ## Game Development
 
 ### [Reversi](/pages/reversi.md)
-<img src="images/reversi.png?raw=true" width="500"/>
+<img src="images/reversi.png?raw=true" width="800"/>
 
 ---
 - [Project 1 Title](http://example.com/)
