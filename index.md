@@ -12,5 +12,21 @@
 <img src="images/dual_level.png?raw=true" width="500"/>
 
 ---
-### [Project 3 Title](http://example.com/)
+### [Adventurous Art](/pages/adventurous_art.md)
+<img src="images/dummy_thumbnail.jpg?raw=true" width="500"/>
+
+---
+### [C++ Roguelike](/pages/c_roguelike.md)
+<img src="images/dummy_thumbnail.jpg?raw=true" width="500"/>
+
+---
+### [Pong](/pages/pong.md)
+<img src="images/dummy_thumbnail.jpg?raw=true" width="500"/>
+
+---
+### [Unity Roguelike](/pages/unity_roguelike.md)
+<img src="images/dummy_thumbnail.jpg?raw=true" width="500"/>
+
+---
+### [Heir to Nothing](/pages/heir_to_nothing.md)
 <img src="images/dummy_thumbnail.jpg?raw=true" width="500"/>
