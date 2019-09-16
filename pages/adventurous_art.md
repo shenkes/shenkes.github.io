@@ -3,11 +3,9 @@
 **Project description:** (Finished - December 2018) <br>
 Adventurous Art was awarded *Best Project* in a class of over 200 for Software Development Practices (COMS 309). The course focused around a semester long team project and attempted to emulate a typical internship in many ways. Daniel Schubert, Adrianna Kallis, Jake Tener, and I worked together to conceive and create Adventurous Art from the ground up using Java, Android Studio, Spring, and MySQL.
 
-### Trails
+### Landing Page (Activity Feed)
 
-<img src="/images/particle_system/meteor_trail_effect.png?raw=true" width="500"/>
-<img src="/images/particle_system/green_trail_effect.png?raw=true" width="500"/>
-<img src="/images/particle_system/torch_trail_effect.png?raw=true" width="500"/>
+<img src="/images/adventurous_art/AA01.jpg?raw=true" width="500"/>
 
 ### Environments
 
