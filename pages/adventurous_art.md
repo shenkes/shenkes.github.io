@@ -55,6 +55,97 @@ Adventurous Art was awarded *Best Project* in a class of over 200 for Software D
 
 <img src="/images/adventurous_art/AA13.jpg?raw=true" width="400"/>
 
+### Clear Drawing
+
+<img src="/images/adventurous_art/AA14.jpg?raw=true" width="400"/>
+
+### Metz Art Museum Pieces (using public API)
+
+<img src="/images/adventurous_art/AA15.jpg?raw=true" width="400"/>
+
+### Half Opacity Art
+
+<img src="/images/adventurous_art/AA16.jpg?raw=true" width="400"/>
+
+### Trace Over
+
+<img src="/images/adventurous_art/AA17.jpg?raw=true" width="400"/>
+
+### Toggle Off
+
+<img src="/images/adventurous_art/AA19.jpg?raw=true" width="400"/>
+
+### Toggle On
+
+<img src="/images/adventurous_art/AA18.jpg?raw=true" width="400"/>
+
+### Save Draft
+
+<img src="/images/adventurous_art/AA22.jpg?raw=true" width="400"/>
+
+### View Drafts
+
+<img src="/images/adventurous_art/AA20.jpg?raw=true" width="400"/>
+
+### Edit Draft
+
+<img src="/images/adventurous_art/AA21.jpg?raw=true" width="400"/>
+
+### Publish Drawing
+
+<img src="/images/adventurous_art/AA26.jpg?raw=true" width="400"/>
+
+### Activity Feed
+
+<img src="/images/adventurous_art/AA23.jpg?raw=true" width="400"/>
+
+### Tap to Show Art Being Drawn
+
+<img src="/images/adventurous_art/AA24.jpg?raw=true" width="400"/>
+<img src="/images/adventurous_art/AA25.jpg?raw=true" width="400"/>
+
+### Follow Button Shown when Signed In
+
+<img src="/images/adventurous_art/AA27.jpg?raw=true" width="400"/>
+
+### Follow User
+
+<img src="/images/adventurous_art/AA28.jpg?raw=true" width="400"/>
+
+### View Personal Activity Feed (Only drawings from followed users)
+
+<img src="/images/adventurous_art/AA29.jpg?raw=true" width="400"/>
+
+### Settings Page (Private)
+
+<img src="/images/adventurous_art/AA30.jpg?raw=true" width="400"/>
+
+### Profile Page (Public) - Gallery
+
+<img src="/images/adventurous_art/AA31.jpg?raw=true" width="400"/>
+
+### Profile Page (Public) - Following
+
+<img src="/images/adventurous_art/AA32.jpg?raw=true" width="400"/>
+
+### Choosing a Piece to Remix
+
+<img src="/images/adventurous_art/AA33.jpg?raw=true" width="400"/>
+
+### Remixing Drawing
+
+<img src="/images/adventurous_art/AA34.jpg?raw=true" width="400"/>
+
+### Publishing Remix
+
+<img src="/images/adventurous_art/AA35.jpg?raw=true" width="400"/>
+
+### Remix on Activity Feed
+
+<img src="/images/adventurous_art/AA36.jpg?raw=true" width="400"/>
+
+
+
 ### Next Steps
 We achieved our original goals in making the Particle System, but if we come back to it we have a few things we would like to do.
 * Embed the Particle System in this page (or at least a link to it)
