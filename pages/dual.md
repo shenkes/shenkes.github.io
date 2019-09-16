@@ -11,9 +11,9 @@ I encourage you to download the game and find someone to play with.
 
 ### Game in Action
 
-<img src="/images/dual_level.png?raw=true" width="500"/>
-<img src="/images/dual_competition.png?raw=true" width="500"/>
-<img src="/images/dual_tutorial.png?raw=true" width="500"/>
+<img src="/images/dual/dual_level.png?raw=true" width="500"/>
+<img src="/images/dual/dual_competition.png?raw=true" width="500"/>
+<img src="/images/dual/dual_tutorial.png?raw=true" width="500"/>
 
 ### Next Steps
 We created as much as we could hope for in the Partner Jam and were happy with where we ended. I will not be adding to this, but I did very much enjoy making it and there is room for improvement so here are some ideas I have for a second version of the game
