@@ -1,7 +1,7 @@
 ## About Adventurous Art
 
 **Project description:** (Finished - December 2018) <br>
-Adventurous Art was awarded *Best Project* in a class of over 200 for Software Development Practices (COMS 309). The course focused around a semester long team project and attempted to emulate a typical internship in many ways. Daniel Schubert, [Adrianna Kallis](www.linkedin.com/in/adriannakallis), [Jake Tener](https://www.linkedin.com/in/jacob-tener-b38103169/), and I worked together to conceive and create Adventurous Art from the ground up using Java, Android Studio, Spring, and MySQL.
+Adventurous Art was awarded *Best Project* in a class of over 200 for Software Development Practices (COMS 309). The course focused around a semester long team project and attempted to emulate a typical internship in many ways. Daniel Schubert, [Adrianna Kallis](https://www.linkedin.com/in/adriannakallis), [Jake Tener](https://www.linkedin.com/in/jacob-tener-b38103169/), and I worked together to conceive and create Adventurous Art from the ground up using Java, Android Studio, Spring, and MySQL.
 
 ### Landing Page (Activity Feed)
 
