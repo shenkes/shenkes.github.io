@@ -9,15 +9,27 @@ Adventurous Art was awarded *Best Project* in a class of over 200 for Software D
 
 ### Menu for Unregistered Users
 
-<img src="/images/particle_system/snow_environment_effect.png?raw=true" width="500"/>
-<img src="/images/particle_system/ember_environment_effect.png?raw=true" width="500"/>
+<img src="/images/adventurous_art/AA02.jpg?raw=true" width="500"/>
 
-### Auras
+### User Search
 
-<img src="/images/particle_system/light_aura_effect.png?raw=true" width="500"/>
-<img src="/images/particle_system/light_aura_effect_2.png?raw=true" width="500"/>
-<img src="/images/particle_system/subtle_aura_effect.png?raw=true" width="500"/>
-<img src="/images/particle_system/purple_aura_effect.png?raw=true" width="500"/>
+<img src="/images/adventurous_art/AA03.jpg?raw=true" width="500"/>
+
+### Account Registration
+
+<img src="/images/adventurous_art/AA04.jpg?raw=true" width="500"/>
+
+### Failed Account Registration
+
+<img src="/images/adventurous_art/AA05.jpg?raw=true" width="500"/>
+
+### Login
+
+<img src="/images/adventurous_art/AA06.jpg?raw=true" width="500"/>
+
+### Menu for Registered Users
+
+<img src="/images/adventurous_art/AA07.jpg?raw=true" width="500"/>
 
 ### Next Steps
 We achieved our original goals in making the Particle System, but if we come back to it we have a few things we would like to do.
