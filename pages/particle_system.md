@@ -5,21 +5,21 @@ As a final project for Computer Graphics (COMS 336), I collaborated with [Ben Kr
 
 ### Trails
 
-<img src="/images/meteor_trail_effect.png?raw=true" width="500"/>
-<img src="/images/green_trail_effect.png?raw=true" width="500"/>
-<img src="/images/torch_trail_effect.png?raw=true" width="500"/>
+<img src="/images/particle_system/meteor_trail_effect.png?raw=true" width="500"/>
+<img src="/images/particle_system/green_trail_effect.png?raw=true" width="500"/>
+<img src="/images/particle_system/torch_trail_effect.png?raw=true" width="500"/>
 
 ### Environments
 
-<img src="/images/snow_environment_effect.png?raw=true" width="500"/>
-<img src="/images/ember_environment_effect.png?raw=true" width="500"/>
+<img src="/images/particle_system/snow_environment_effect.png?raw=true" width="500"/>
+<img src="/images/particle_system/ember_environment_effect.png?raw=true" width="500"/>
 
 ### Auras
 
-<img src="/images/light_aura_effect.png?raw=true" width="500"/>
-<img src="/images/light_aura_effect_2.png?raw=true" width="500"/>
-<img src="/images/subtle_aura_effect.png?raw=true" width="500"/>
-<img src="/images/purple_aura_effect.png?raw=true" width="500"/>
+<img src="/images/particle_system/light_aura_effect.png?raw=true" width="500"/>
+<img src="/images/particle_system/light_aura_effect_2.png?raw=true" width="500"/>
+<img src="/images/particle_system/subtle_aura_effect.png?raw=true" width="500"/>
+<img src="/images/particle_system/purple_aura_effect.png?raw=true" width="500"/>
 
 ### Next Steps
 We achieved our original goals in making the Particle System, but if we come back to it we have a few things we would like to do.
