@@ -7,7 +7,7 @@ Adventurous Art was awarded *Best Project* in a class of over 200 for Software D
 
 <img src="/images/adventurous_art/AA01.jpg?raw=true" width="500"/>
 
-### Environments
+### Menu for Unregistered Users
 
 <img src="/images/particle_system/snow_environment_effect.png?raw=true" width="500"/>
 <img src="/images/particle_system/ember_environment_effect.png?raw=true" width="500"/>
