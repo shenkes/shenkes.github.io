@@ -1,7 +1,7 @@
 ## About Adventurous Art
 
 **Project description:** (Finished - December 2018) <br>
-Adventurous Art was awarded *Best Project* in a class of over 200 for Software Development Practices (COMS 309). The course focused around a semester long team project and attempted to emulate a typical internship in many ways. Daniel Schubert, Adrianna Kallis, Jake Tener, and I worked together to conceive and create Adventurous Art from the ground up using Java, Android Studio, Spring, and MySQL.
+Adventurous Art was awarded *Best Project* in a class of over 200 for Software Development Practices (COMS 309). The course focused around a semester long team project and attempted to emulate a typical internship in many ways. Daniel Schubert, (Adrianna Kallis)[www.linkedin.com/in/adriannakallis], (Jake Tener)[https://www.linkedin.com/in/jacob-tener-b38103169/], and I worked together to conceive and create Adventurous Art from the ground up using Java, Android Studio, Spring, and MySQL.
 
 ### Landing Page (Activity Feed)
 
@@ -147,9 +147,12 @@ Adventurous Art was awarded *Best Project* in a class of over 200 for Software D
 
 
 ### Next Steps
-We achieved our original goals in making the Particle System, but if we come back to it we have a few things we would like to do.
-* Embed the Particle System in this page (or at least a link to it)
-* Make the option to change the number of particles accessable from the browser (currently hardcoded)
-* Make the user interface more user friendly - set limits on numbers or perhaps add sliders
-* Add more user options - shapes, rotation with variance, etc.
+We finished our required tasks and then went beyond to get *Best Project*, so it is unlikely we will come back to Adventurous Art unless it's to touch it up. That being said, here is what I would like to do if I wanted to improve the app.
+* Move the project to this github
+* Have an apk available for people to use the app
+* Record a video using the app (and put it on this page)
+* Do not allow users to press the back button and republish the same picture a second time
+* Verify that there is a bug with following/unfollowing displaying incorrectly and fix if necessary
+* Add more security (account settings, server and database transactions, etc.)
+* Find a long term solution to host the server (currently hosted by free-tier AWS EC2 instance)
 
