@@ -7,7 +7,7 @@ As one of 4 games I made in the Game Development course (COMS 437), I created a 
 
 ### Game in Action
 
-<img src="/images/reversi.png?raw=true" width="500"/>
+<img src="/images/reversi/reversi.png?raw=true" width="500"/>
 
 ### Next Steps
 I achieved my original goals in making the Particle System, but if I came back to it I have a few things I would like to do.
