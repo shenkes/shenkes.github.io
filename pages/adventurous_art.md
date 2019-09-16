@@ -5,31 +5,31 @@ Adventurous Art was awarded *Best Project* in a class of over 200 for Software D
 
 ### Landing Page (Activity Feed)
 
-<img src="/images/adventurous_art/AA01.jpg?raw=true" width="500"/>
+<img src="/images/adventurous_art/AA01.jpg?raw=true" width="400"/>
 
 ### Menu for Unregistered Users
 
-<img src="/images/adventurous_art/AA02.jpg?raw=true" width="500"/>
+<img src="/images/adventurous_art/AA02.jpg?raw=true" width="400"/>
 
 ### User Search
 
-<img src="/images/adventurous_art/AA03.jpg?raw=true" width="500"/>
+<img src="/images/adventurous_art/AA03.jpg?raw=true" width="400"/>
 
 ### Account Registration
 
-<img src="/images/adventurous_art/AA04.jpg?raw=true" width="500"/>
+<img src="/images/adventurous_art/AA04.jpg?raw=true" width="400"/>
 
 ### Failed Account Registration
 
-<img src="/images/adventurous_art/AA05.jpg?raw=true" width="500"/>
+<img src="/images/adventurous_art/AA05.jpg?raw=true" width="400"/>
 
 ### Login
 
-<img src="/images/adventurous_art/AA06.jpg?raw=true" width="500"/>
+<img src="/images/adventurous_art/AA06.jpg?raw=true" width="400"/>
 
 ### Menu for Registered Users
 
-<img src="/images/adventurous_art/AA07.jpg?raw=true" width="500"/>
+<img src="/images/adventurous_art/AA07.jpg?raw=true" width="400"/>
 
 ### Next Steps
 We achieved our original goals in making the Particle System, but if we come back to it we have a few things we would like to do.
