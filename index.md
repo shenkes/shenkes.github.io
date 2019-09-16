@@ -13,6 +13,7 @@
 
 ---
 ### [Adventurous Art](/pages/adventurous_art.md)
+<img src="images/adventurous_art/AA36.jpg?raw=true" width="500"/>
 
 ---
 ### [C++ Roguelike](/pages/c_roguelike.md)
