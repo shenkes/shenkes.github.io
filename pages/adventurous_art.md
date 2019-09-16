@@ -153,6 +153,3 @@ We achieved our original goals in making the Particle System, but if we come bac
 * Make the user interface more user friendly - set limits on numbers or perhaps add sliders
 * Add more user options - shapes, rotation with variance, etc.
 
-### References
-https://threejs.org/examples/webgl_gpu_particle_system.html <br>
-http://jsfiddle.net/hjx3rLmt/1/
