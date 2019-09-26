@@ -61,6 +61,7 @@ For the duration of Adventurous Art I primarily worked on the client side of the
   * Structuring and planning out the API in advance is wise
     * We started this after Demo 2 when we realized that not doing this was problematic
   * Better technical demonstration abilities
+  * There are a ton of awesome public APIs that are free to use
 * Teamwork
   * Keeping each other up to date on what is happening is important
     * We did a pretty good job of this, but when we slipped up it was a learning experience
