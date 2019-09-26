@@ -3,19 +3,6 @@
 **Project description:** (Finished - December 2018) <br>
 Adventurous Art was awarded *Best Project* in a class of over 200 for Software Development Practices (COMS 309). The course focused around a semester long team project and attempted to emulate a typical internship in many ways. [Daniel Schubert](https://www.linkedin.com/in/daniel-schubert-7ab18b128), [Adrianna Kallis](https://www.linkedin.com/in/adriannakallis), [Jake Tener](https://www.linkedin.com/in/jacob-tener-b38103169/), and I worked together to conceive and create Adventurous Art from the ground up using Java, Android Studio, Spring, and MySQL.
 
-**Timeline:**
-For Software Development Practices (COMS 309), the semester was split into 4 seperate Demos with a Teacher's Assistant. Each Demo was 3-4 apart and had it's own requirements, meaning to simulate an Agile environment. Here is the general timeline for what happened before each of the 4 Demos:
-* Demo 1
-  * Chose our group of four students.
-  * Brainstormed and arrived at a project idea - Adventurous Art
-  * Flushed out our idea of Adventurous Art and created a Screen Diagram
-  * Got started on Gitlab and Trello, creating branches and tasks
-  * Experimented with Android Studio and Spring
-    * I created a recycled list with fragments in it that would only load what was on screen
-  * Demonstrated our experiments
-* Demo 2
-  * Set up end-to-end communication (client -> server -> database -> server -> client)
-  
 
 **How I contributed:**<br>
 For the duration of Adventurous Art I primarily worked on the client side of the app using Android Studio and Java to make our idea come to life. Here are most of the aspects of Adventurous Art that did throughout the semester:
@@ -62,8 +49,26 @@ For the duration of Adventurous Art I primarily worked on the client side of the
     * i.e. follow, login, profile, etc.
 
 
-**What I learned:**<br>
-This is what I learned.
+**What I learned:**<br> A lot
+* Software & languages
+  * Android Studio
+  * Gitlab
+  * Trello
+  * Gained valuable Java experience
+* Relevent Experience
+  * Good practice with branching, merging, and merge requests
+  * How end-to-end communication works
+  * Structuring and planning out the API in advance is wise
+    * We started this after Demo 2 when we realized that not doing this was problematic
+  * Better technical demonstration abilities
+* Teamwork
+  * Keeping each other up to date on what is happening is important
+    * We did a pretty good job of this, but when we slipped up it was a learning experience
+  * Merge/Pull Requests are awesome for learning!
+    * At the surface they prevent unwanted code from getting merged into master
+    * You pick up on your teamates' good practices when they point out mistakes
+    * When teamates do something new to you, you can learn from them what they did and how they did it
+  * Working on a group where everyone is motivated to do their work makes it exponentially easier and more enjoyable to do yours
 
 ### Landing Page (Activity Feed)
 
