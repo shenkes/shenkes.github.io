@@ -9,11 +9,15 @@ this is the timeline.
 **How I contributed:**<br>
 For the duration of Adventurous Art I primarily worked on the client side of the app using Android Studio and Java to make our idea come to life. Here are most of the aspects of Adventurous Art that did throughout the semester:
 * Activity Feed (Landing page)
+  *
 * Login
 * Registration
 * Profile
 * User Search
 * App Icon
+* User Modes (Signed in/out)
+  * Restricted access to different screens and features
+    * i.e. follow, login, profile, etc.
 
 
 **What I learned:**<br>
