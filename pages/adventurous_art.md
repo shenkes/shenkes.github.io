@@ -15,10 +15,36 @@ For the duration of Adventurous Art I primarily worked on the client side of the
   * Recycled list of post fragments
     * Title, drawing, caption, creator, follow button
 * Sign In
-  
+  * Basic sign in
+  * Prompts user upon failed sign in
+    * i.e. Please enter username/password
+    * Brings user to invalid field
 * Registration
+  * Basic Registration with 5 required fields
+  * Prompts user upon failed registration
+    * i.e. Please enter username/password
+    * Brings user to invalid field
 * Profile
+  * Profile fragment with:
+    * Profile picture
+    * Username
+    * Follow button (if applicable)
+  * 4 tabs
+    * Gallery
+      * Recycled list of all of this user's drawings
+    * Bio
+      * Display name
+      * Bio text
+    * Following
+      * Recycled list of all users this user is following
+      * Can follow/unfollow from this screen
+    * Followers
+      * Recycled list of all users following this user
+      * Can follow/unfollow from this screen
 * User Search
+  * Basic user search
+  * Recycled list of all users meeting search criterea appears when searched
+    * Can follow/unfollow from this screen
 * App Icon
 * User Modes (Signed in/out)
   * Restricted access to different screens and features
