@@ -3,8 +3,18 @@
 **Project description:** (Finished - December 2018) <br>
 Adventurous Art was awarded *Best Project* in a class of over 200 for Software Development Practices (COMS 309). The course focused around a semester long team project and attempted to emulate a typical internship in many ways. [Daniel Schubert](https://www.linkedin.com/in/daniel-schubert-7ab18b128), [Adrianna Kallis](https://www.linkedin.com/in/adriannakallis), [Jake Tener](https://www.linkedin.com/in/jacob-tener-b38103169/), and I worked together to conceive and create Adventurous Art from the ground up using Java, Android Studio, Spring, and MySQL.
 
+**Timeline:**
+this is the timeline.
+
 **How I contributed:**<br>
-This is how I contributed.
+For the duration of Adventurous Art I primarily worked on the client side of the app using Android Studio and Java to make our idea come to life. Here are most of the aspects of Adventurous Art that did throughout the semester:
+* Activity Feed (Landing page)
+* Login
+* Registration
+* Profile
+* User Search
+* App Icon
+
 
 **What I learned:**<br>
 This is what I learned.
