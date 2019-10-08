@@ -1,5 +1,9 @@
 # Portfolio
 
+### [Adventurous Art](/pages/adventurous_art.md)
+<img src="images/adventurous_art/AA36.jpg?raw=true" width="500"/>
+
+---
 ### [Particle System](/pages/particle_system.md)
 <img src="images/particle_system/snow_environment_effect.png?raw=true" width="500"/>
 
@@ -10,10 +14,6 @@
 ---
 ### [Dual](/pages/dual.md)
 <img src="images/dual/dual_level.png?raw=true" width="500"/>
-
----
-### [Adventurous Art](/pages/adventurous_art.md)
-<img src="images/adventurous_art/AA36.jpg?raw=true" width="500"/>
 
 ---
 ### [C++ Roguelike](/pages/c_roguelike.md)
