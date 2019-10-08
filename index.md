@@ -16,6 +16,9 @@
 <img src="images/dual/dual_level.png?raw=true" width="500"/>
 
 ---
+### [Virtual Reality Demonstration](/pages/virtual_reality_tutorial.md)
+
+---
 ### [C++ Roguelike](/pages/c_roguelike.md)
 
 ---
@@ -26,3 +29,6 @@
 
 ---
 ### [Heir to Nothing](/pages/heir_to_nothing.md)
+
+---
+### [Portfolio](/pages/portfolio.md)
