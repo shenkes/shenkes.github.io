@@ -151,6 +151,8 @@ li img.headerPictures {
     border-radius: 50%;
     margin: auto;
     padding: 10px;
+    height: 100px;
+    width: 100px;
 }
 
 @media screen and (max-width: 450px) {
