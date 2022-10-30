@@ -5,9 +5,8 @@ createLiElement("About Me", "/index", ul);
 createLiElement("Significant Projects", "/SignificantProjects.html", ul);
 createLiElement("Game Development", "/GameDevelopment.html", ul);
 createLiElement("Professional Experience", "/ProfessionalExperience.html", ul);
-createLiWithImage("images/github.png", "https://github.com/bckramer", ul);
-createLiWithImage("images/youtube.png", "https://www.youtube.com/user/bckramer97", ul);
-createLiWithImage("images/linkedin.png", "https://www.linkedin.com/in/benjamin-kramer-579701148/", ul);
+createLiWithImage("images/github.png", "https://github.com/shenkes", ul);
+createLiWithImage("images/linkedin.png", "https://www.linkedin.com/in/sam-henkes/", ul);
 
 document.body.appendChild(ul);
 // document.getElementById("picture").style.marginTop = ul.clientHeight.toString() + "px";
